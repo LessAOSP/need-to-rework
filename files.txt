@@ -1,4 +1,3 @@
-android_system_security
 android_frameworks_native
 android_hardware_xiaomi
 android_external_selinux
