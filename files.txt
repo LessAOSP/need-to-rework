@@ -7,7 +7,6 @@ android_hardware_xiaomi
 android_external_selinux
 android_packages_modules_Bluetooth
 android_build_make
-android_bionic
 android_frameworks_base
 android_bootable_recovery
 android_system_media
