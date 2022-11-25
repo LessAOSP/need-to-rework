@@ -1,4 +1,3 @@
-android_hardware_xiaomi
 android_external_selinux
 android_packages_modules_Bluetooth
 android_frameworks_base
@@ -23,8 +22,6 @@ android_packages_apps_SettingsIntelligence
 android_packages_resources_devicesettings
 android_packages_apps_Settings
 android_prebuilts_build-tools
-android_packages_apps_Updates
-android_packages_apps_Mantle
 android_device_qcom_sepolicy_vndr
 android_vendor_qcom_opensource_vibrator
 android_hardware_qcom-caf_common
