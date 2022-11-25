@@ -6,7 +6,6 @@ android_frameworks_native
 android_hardware_xiaomi
 android_external_selinux
 android_packages_modules_Bluetooth
-android_build_make
 android_frameworks_base
 android_system_media
 android_external_tinycompress
