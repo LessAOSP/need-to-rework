@@ -1,6 +1,5 @@
 lessaosp_system_sepolicy
 android_hardware_libhardware
-android_build_soong
 android_vendor_aosp
 android_system_security
 android_frameworks_native
