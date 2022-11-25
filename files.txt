@@ -5,7 +5,6 @@ android_vendor_aosp
 android_system_security
 android_frameworks_native
 android_hardware_xiaomi
-android_frameworks_av
 android_external_selinux
 android_packages_modules_Bluetooth
 android_build_make
