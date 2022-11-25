@@ -8,7 +8,6 @@ android_external_selinux
 android_packages_modules_Bluetooth
 android_build_make
 android_frameworks_base
-android_bootable_recovery
 android_system_media
 android_external_tinycompress
 android_system_libhidl
